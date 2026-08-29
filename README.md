@@ -1,104 +1,121 @@
 # 🐍 100 Days of Python
 
-### A daily commitment to learning, building, and getting better at Python.
+### 100 days of learning, building, and getting better at Python.
 
-I'm taking on a 100-day challenge to make Python a language I can
-actually *think in*, not just one I can write syntax in.
+I'm spending the next 100 days writing Python every day.
 
-The idea is simple: show up every day, learn something, write some code,
-and keep moving forward.
+I already have a foundation in Python up to the intermediate level from my
+Class 12 Computer Science studies. Instead of simply moving on from that
+knowledge, I'm using this challenge to revisit the fundamentals, strengthen
+what I already know, and get more comfortable putting it into practice.
 
-This repository will grow with me throughout the challenge, from the
-first few lines of Python to projects that require considerably more
-thought and problem-solving.
+At the same time, I'll be pushing beyond my existing knowledge through
+projects, experimentation, and new concepts.
 
-No perfect code. No pretending I know everything.
+The goal isn't to start from zero.
 
-Just 100 days of learning, building, breaking things, fixing them,
-and seeing how far I can go.
+It's to take what I already know and see how far I can take it.
+
+---
+
+## 🎯 Why I'm Doing This
+
+Knowing how something works and being able to build with it are two different
+things.
+
+I want to spend these 100 days writing more code, solving more problems,
+getting stuck, debugging, and becoming better at figuring things out on my
+own.
+
+By the end, I want Python to feel less like something I've studied and more
+like something I can actually use.
 
 ---
 
 ## 🚀 The Challenge
 
-The goal isn't simply to complete 100 days.
+For 100 days, I'll show up and write Python.
 
-It's to build the habits and problem-solving skills that come with
-actually writing code consistently.
+Each day will involve some combination of:
 
-Each day, I'll aim to:
+- Revising concepts
+- Learning something new
+- Solving problems
+- Building projects
+- Experimenting with ideas
+- Improving previous work
 
-- Learn and understand something new
-- Put it into practice
-- Build, experiment, or solve a problem
-- Document my progress
-- Commit my work
-
-The challenge will evolve as my skills do.
-
----
-
-## 📅 Progress
-
-A running record of the work completed throughout the 100 days.
-
-This section will be updated as the challenge progresses.
+There isn't a fixed list of projects being displayed here. The repository
+will develop as I do.
 
 ---
 
-## 🧠 What I'm Learning
+## 📊 Progress
 
-A growing collection of concepts, techniques, tools, and lessons
-picked up throughout the journey.
+### Current Stats
 
-I'll add to this as I encounter them rather than trying to define
-the entire learning path beforehand.
+| **Days completed** | 1 / 100 |
+| **Current streak** | 1 day |
+| **Projects completed** | 1 |
+| **Started** | August 29, 2026 |
+
+### Daily Progress
+
+A running record of what I work on throughout the challenge.
+
+I'll update this section as I go.
+
+| Day | What I Worked On | Status |
+|01|Band Name Generator(Variables)|✅|
+
 
 ---
 
 ## 📂 Repository Structure
 
-The repository is organised chronologically, with each day having
-its own space for the work completed that day.
+The repository is organised around the work completed each day.
 
-The structure will evolve naturally as the projects become more
-complex.
+Each day's folder contains the code and other relevant files from that day's
+work. The structure will evolve naturally as the projects become larger and
+more involved.
+
+---
+
+## 🧠 What I'm Learning
+
+A growing record of concepts, techniques, tools, and lessons picked up
+throughout the 100 days.
+
+I'll add to this as I encounter them rather than trying to define the entire
+learning path beforehand.
 
 ---
 
 ## 🛠️ Tools
+
+The tools I use throughout the challenge will be added here as the journey
+progresses.
+
+Currently:
 
 - Python
 - VS Code
 - Git
 - GitHub
 
-More will be added as the journey progresses.
-
 ---
 
-## 📈 Progress
+## 🏁 The Goal
 
-**Days completed:** 0 / 100
+I don't want to finish these 100 days simply having written 100 programs.
 
-**Current streak:** 0 days
+I want to become better at breaking problems down, writing cleaner code,
+debugging, learning independently, and turning an idea into something that
+actually works.
 
-**Projects completed:** 0
+I already know some Python.
 
----
+Now I want to get better at it.
 
-## 🎯 Why I'm Doing This
-
-Programming is one of those skills where knowing the theory is only
-half the battle.
-
-I want to spend these 100 days actually writing code, getting stuck,
-debugging, figuring things out, and gradually becoming more
-independent as a programmer.
-
-By the end, I don't expect to know everything.
-
-I just want to be significantly better than I was on Day 1.
-
-**Day 1 starts now  🐍**
+**Day 1 starts here. 🐍**
 *Started: August 29, 2026*
