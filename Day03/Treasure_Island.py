@@ -1,0 +1,41 @@
+print("*******************************************************************************")
+print("          |                   |                  |                     |")
+print(" _________|________________.=_;=.______________|_____________________|_______")
+print("|                   |  ,-_,=     `=.|                  |")
+print("|___________________|__=._o`-._        `=.______________|___________________")
+print("          |                `=._o`=._      _`=._                     |")
+print(" _________|_____________________:=._o =._._.-==.__________________|_______")
+print("|                   |    __.-- , ; `=._o. ,--._ ..   |")
+print("|___________________|_._  ,. .` ` `` ,  `-. -._    . __|___________________")
+print("          |           |o`=._` , ` `; .. ,  -._-._; ;              |")
+print(" _________|___________| ;`-.o`=._; . ` '`.\` . -._ /_______________|_______")
+print("|                   | |o;    `-.o`=._``  '`  ,__.--o;   |")
+print("|___________________|_| ;     (#) `-.o `=.`_.--_o.-; ;___|___________________")
+print("____/______/______/___|o;._          `.o|o_.--    ;o;____/______/______/____")
+print("/______/______/______/_=._o--._        ; | ;        ; ;/______/______/______/_")
+print("____/______/______/______/__=._o--._   ;o|o;     _._;o;____/______/______/____")
+print("/______/______/______/______/____=._o._; | ;_.--o.--_/______/______/______/_")
+print("____/______/______/______/______/_____=.o|o_.--___/______/______/______/ ____")
+print("/______/______/______/______/______/______/______/______/______/______/______/__")
+print("*******************************************************************************")
+print("Welcome to Treasure Island.")
+print("Your mission is to find the treasure.")
+print("*******************************************************************************")
+print("Choose your path wisely, as one wrong move could lead to your demise.")
+Choice1 = input("You are at a cross road. Where do you want to go? Type 'left' or 'right' ")
+if Choice1.lower() == "left":
+    print("You have come to a lake. There is an island in the middle of the lake.")
+    Choice2 = input("Do you want to wait for a boat or swim across? Type 'wait' or 'swim' ")
+    if Choice2.lower() == "wait":
+        print("You have arrived at the island unharmed.")
+        Choice3 = input("You see a house with three doors. Which door do you choose? Type 'red', 'blue', or 'yellow' ")
+        if Choice3.lower() == "yellow":
+            print("Congratulations! You found the treasure!")
+        elif Choice3.lower() == "red":
+            print("You have been burned by fire. Game Over.")
+        elif Choice3.lower() == "blue":
+            print("You have been eaten by beasts. Game Over.")
+    elif Choice2.lower() == "swim":
+        print("You have been attacked by a trout. Game Over.")
+else:
+    print("You have fallen into a hole. Game Over.")
