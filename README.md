@@ -54,9 +54,9 @@ will develop as I do.
 
 ### Current Stats
 
-| **Days completed** | 1 / 100 |
-| **Current streak** | 1 day |
-| **Projects completed** | 1 |
+| **Days completed** | 3 / 100 |
+| **Current streak** | 3 day |
+| **Projects completed** | 3 |
 | **Started** | August 29, 2026 |
 
 ### Daily Progress
@@ -67,7 +67,8 @@ I'll update this section as I go.
 
 | Day | What I Worked On | Status |
 |01|Band Name Generator(Variables)|✅|
-
+|02|Tip Calculator(Arithematics)|✅|
+|03|Treasure Island(Control Flow)|✅|
 
 ---
 
