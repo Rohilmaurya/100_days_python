@@ -69,6 +69,7 @@ I'll update this section as I go.
 |01|Band Name Generator(Variables)|✅|
 |02|Tip Calculator(Arithematics)|✅|
 |03|Treasure Island(Control Flow)|✅|
+|04|Rock Paper Scissor(Randomisation)|✅|
 
 ---
 
