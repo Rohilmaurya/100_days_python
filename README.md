@@ -54,9 +54,9 @@ will develop as I do.
 
 ### Current Stats
 
-| **Days completed** | 3 / 100 |
-| **Current streak** | 3 day |
-| **Projects completed** | 3 |
+| **Days completed** | 6 / 100 |
+| **Current streak** | 6 day |
+| **Projects completed** | 6 |
 | **Started** | August 29, 2026 |
 
 ### Daily Progress
@@ -70,6 +70,8 @@ I'll update this section as I go.
 |02|Tip Calculator(Arithematics)|✅|
 |03|Treasure Island(Control Flow)|✅|
 |04|Rock Paper Scissor(Randomisation)|✅|
+|05|Password Generator(For Loop)|✅|
+|06|Galatic Trading Post(Function and While Loop)|✅|
 
 ---
 
