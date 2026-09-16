@@ -72,8 +72,20 @@ I'll update this section as I go.
 |04|Rock Paper Scissor(Randomisation)|✅|
 |05|Password Generator(For Loop)|✅|
 |06|Galatic Trading Post(Function and While Loop)|✅|
-
+|07|Hangman(While Loop & Conditional Statements)|✅|
+|08|Caesar Cypher|✅|
 ---
+### 📌 Current Status
+
+The 100 Days of Python journey is currently **paused due to academic commitments**.
+
+I’m prioritizing my college academics for now and will resume the challenge once I can give it the time and consistency it deserves.
+
+The goal remains the same: **100 days of progressively harder Python projects, learning by building rather than just watching tutorials.**
+
+**Status:** ⏸️ Temporarily paused since Sept 06,2026
+**Next:** Resume from where I left off
+
 
 ## 📂 Repository Structure
 
