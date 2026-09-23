@@ -1,137 +1,82 @@
 # 🐍 100 Days of Python
 
-### 100 days of learning, building, and getting better at Python.
+**100 days of learning, building, and getting better at Python.**
 
-I'm spending the next 100 days writing Python every day.
+I'm committing to writing Python every day for 100 days, revisiting the fundamentals I already know while pushing into new concepts through projects and experimentation.
 
-I already have a foundation in Python up to the intermediate level from my
-Class 12 Computer Science studies. Instead of simply moving on from that
-knowledge, I'm using this challenge to revisit the fundamentals, strengthen
-what I already know, and get more comfortable putting it into practice.
-
-At the same time, I'll be pushing beyond my existing knowledge through
-projects, experimentation, and new concepts.
-
-The goal isn't to start from zero.
-
-It's to take what I already know and see how far I can take it.
+I already have a foundation in Python from Class 12 Computer Science. This challenge is about turning that knowledge into practical ability by **building, solving problems, debugging, and learning by doing.**
 
 ---
 
-## 🎯 Why I'm Doing This
+## 🎯 The Challenge
 
-Knowing how something works and being able to build with it are two different
-things.
+Each day, I'll work on a combination of:
 
-I want to spend these 100 days writing more code, solving more problems,
-getting stuck, debugging, and becoming better at figuring things out on my
-own.
+* 🧠 Learning and revising concepts
+* 💻 Building projects
+* 🧩 Solving problems
+* 🔬 Experimenting with Python
+* 🛠️ Debugging and improving code
 
-By the end, I want Python to feel less like something I've studied and more
-like something I can actually use.
+The goal isn't simply to complete 100 programs.
 
----
-
-## 🚀 The Challenge
-
-For 100 days, I'll show up and write Python.
-
-Each day will involve some combination of:
-
-- Revising concepts
-- Learning something new
-- Solving problems
-- Building projects
-- Experimenting with ideas
-- Improving previous work
-
-There isn't a fixed list of projects being displayed here. The repository
-will develop as I do.
+It's to become better at **thinking through problems and building things independently.**
 
 ---
 
 ## 📊 Progress
 
-### Current Stats
+**Started:** August 29, 2026
+**Paused:** September 6, 2026
+**Resumed:** September 23, 2026
 
-| **Days completed** | 6 / 100 |
-| **Current streak** | 6 day |
-| **Projects completed** | 6 |
-| **Started** | August 29, 2026 |
+**Progress:** 8 / 100 days completed
+**Current streak:** 1 day since resuming
+**Projects completed:** 8
 
-### Daily Progress
+### 📅 Daily Progress
 
-A running record of what I work on throughout the challenge.
-
-I'll update this section as I go.
-
-| Day | What I Worked On | Status |
-|01|Band Name Generator(Variables)|✅|
-|02|Tip Calculator(Arithematics)|✅|
-|03|Treasure Island(Control Flow)|✅|
-|04|Rock Paper Scissor(Randomisation)|✅|
-|05|Password Generator(For Loop)|✅|
-|06|Galatic Trading Post(Function and While Loop)|✅|
-|07|Hangman(While Loop & Conditional Statements)|✅|
-|08|Caesar Cypher|✅|
----
-### 📌 Current Status
-
-The 100 Days of Python journey is currently **paused due to academic commitments**.
-
-I’m prioritizing my college academics for now and will resume the challenge once I can give it the time and consistency it deserves.
-
-The goal remains the same: **100 days of progressively harder Python projects, learning by building rather than just watching tutorials.**
-
-**Status:** ⏸️ Temporarily paused since Sept 06,2026
-**Next:** Resume from where I left off
-
-
-## 📂 Repository Structure
-
-The repository is organised around the work completed each day.
-
-Each day's folder contains the code and other relevant files from that day's
-work. The structure will evolve naturally as the projects become larger and
-more involved.
+| Day | Date   | Project / Topic       | Status |
+| --- | ------ | --------------------- | ------ |
+| 01  | Aug 29 | Band Name Generator   | ✅      |
+| 02  | Aug 30 | Tip Calculator        | ✅      |
+| 03  | Aug 31 | Treasure Island       | ✅      |
+| 04  | Sep 01 | Rock Paper Scissors   | ✅      |
+| 05  | Sep 02 | Password Generator    | ✅      |
+| 06  | Sep 03 | Galactic Trading Post | ✅      |
+| 07  | Sep 04 | Hangman               | ✅      |
+| 08  | Sep 05 | Caesar Cipher         | ✅      |
+| 09  | Sep 23 | Secret Auction        | ✅      |
 
 ---
 
-## 🧠 What I'm Learning
+## 🔄 Back on Track
 
-A growing record of concepts, techniques, tools, and lessons picked up
-throughout the 100 days.
+The challenge was temporarily paused from **September 6** because of academic commitments.
 
-I'll add to this as I encounter them rather than trying to define the entire
-learning path beforehand.
+That break is now over.
+
+**I'm continuing from today, September 23, and picking up exactly where I left off.** 🚀
+
+No restarting. No resetting the counter.
+
+Just continuing the journey.
 
 ---
 
 ## 🛠️ Tools
 
-The tools I use throughout the challenge will be added here as the journey
-progresses.
-
-Currently:
-
-- Python
-- VS Code
-- Git
-- GitHub
+* Python
+* VS Code
+* Git
+* GitHub
 
 ---
 
 ## 🏁 The Goal
 
-I don't want to finish these 100 days simply having written 100 programs.
+By Day 100, I want Python to feel less like something I've studied and more like something I can actually use.
 
-I want to become better at breaking problems down, writing cleaner code,
-debugging, learning independently, and turning an idea into something that
-actually works.
+**Learn → Build → Debug → Improve → Repeat.**
 
-I already know some Python.
-
-Now I want to get better at it.
-
-**Day 1 starts here. 🐍**
-*Started: August 29, 2026*
+🐍 **Day 9 starts here.**
