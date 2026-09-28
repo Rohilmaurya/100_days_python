@@ -47,6 +47,11 @@ It's to become better at **thinking through problems and building things indepen
 | 07  | Sep 04 | Hangman               | ✅      |
 | 08  | Sep 05 | Caesar Cipher         | ✅      |
 | 09  | Sep 23 | Secret Auction        | ✅      |
+| 10  | Sep 24 | Simple Calculator     | ✅      |
+| 11  | Sep 25 | Blackjack             | ✅      |
+| 12  | Sep 26 | Number Guessing Game  | ✅      |
+| 13  | Sep 27 | Debugging practice    | ✅      |
+| 14  | Sep 28 | Higher Lower Gane     | ✅      |
 
 ---
 
