@@ -55,11 +55,16 @@ It's to become better at **thinking through problems and building things indepen
 
 ---
 
-## 🔄 Back on Track
+## 📌 Midterm Break
 
-The challenge was temporarily paused from **September 6** because of academic commitments.
+I've decided to take a short break from the **100 Days of Code: Python** challenge to focus on my upcoming midterm exams.
 
-That break is now over.
+I'll be back to the challenge after my exams and will continue from where I left off.
+
+**Progress so far:** Day 14/100 🐍
+
+For now, academics come first. The Python journey will continue soon! 🚀
+
 
 **I'm continuing from today, September 23, and picking up exactly where I left off.** 🚀
 
@@ -83,5 +88,3 @@ Just continuing the journey.
 By Day 100, I want Python to feel less like something I've studied and more like something I can actually use.
 
 **Learn → Build → Debug → Improve → Repeat.**
-
-🐍 **Day 9 starts here.**
